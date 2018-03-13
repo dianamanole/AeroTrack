@@ -1,0 +1,40 @@
+AC317,Air Canada,YYC,Calgary,Arrivee,N/A,2018-03-11,8.30
+AC400,Air Canada,YYZ,Toronto,Arrivee,N/A,2018-03-12,8.12
+AC480,Air Canada,YYZ,Toronto,Arrivee,N/A,2018-03-11,7.49
+AC7631,Air Canada,JFK,New York,Arrivee,N/A,2018-03-12,8.27
+AC8455,Air Canada,BOS,Boston,Arrivee,N/A,2018-03-11,7.26
+AC8489,Air Canada,EWR,Newark,Arrivee,N/A,2018-03-11,7.56
+AC8750,Air Canada,YVO,Val D'or,Arrivee,N/A,2018-03-11,8.30
+AC8976,Air Canada,YOW,Ottawa,Arrivee,N/A,2018-03-12,8.06
+PD7142,Porter Airlines,YQB,Quebec,Arrivee,N/A,2018-03-11,7.43
+UA8123,United Airlines,BOS,Boston,Arrivee,N/A,2018-03-11,7.26
+UA8431,United Airlines,JFK,New York,Arrivee,N/A,2018-03-12,8.27
+WS3449,WestJet Airlines,YQB,Quebec,Arrivee,N/A,2018-03-11,7.08
+WS3514,WestJet Airlines,YYZ,Toronto,Arrivee,N/A,2018-03-12,7.48
+YN920,Air Creebec,YVO,Val D'or,Arrivee,N/A,2018-03-11,7.30
+DL6906,Delta,YYZ,Toronto,Arrivee,N/A,2018-03-12,8.12
+AC7952,Air Canada,YYZ,Toronto,Arrivee,N/A,2018-03-12,8.13
+UA4067,United Airlines,EWR,Newark,Arrivee,N/A,2018-03-12,8.12
+PD457,Porter Airlines,YYZ,Toronto,Arrivee,N/A,2018-03-12,8.24
+WS3450,WestJet Airlines,YHZ,Halifax,Arrivee,N/A,2018-03-12,8.16
+AC3079,Air Canada,ORD,Chicago,Arrivee,N/A,2018-03-11,9.09
+DL3679,Delta,JFK,New York,Depart,A50,2018-03-11,7.00
+WS6436,WestJet Airlines,JFK,New York,Depart,C84,2018-03-11,8.34
+DL3833,Delta,JFK,New York,Depart,C87,2018-03-11,9.50
+LX4744,Swiss,JFK,New York,Depart,C87,2018-03-11,9.50
+WW5964,WOW,JFK,New York,Depart,A58,2018-03-11,8.10
+WS6430,WestJet Airlines,JFK,New York,Depart,A51,2018-03-11,9.50
+WG7378,Sunwing Airlines,JFK,New York,Depart,C87,2018-03-11,9.50
+WG183,Sunwing Airlines,HUX,Huatulco,Depart,C65,2018-03-11,8.10
+AC1618,Air Canada,TPA,Tampa,Depart,C65,2018-03-11,7.57
+AC1842,Air Canada,PVR,Puerto Vallarta,Depart,A64,2018-03-11,7.57
+AT284,Air Transat,PUJ,Punta Cana,Depart,C75,2018-03-12,8.24
+AT968,Air Transat,ACA,Acapulco,Depart,C75,2018-03-12,7.54
+AC1268,Air Canada,RSW,Fort Myers,Depart,A27,2018-03-12,8.34
+WS3448,WestJet Airlines,YQB,Quebec,Depart,A6,2018-03-12,8.18
+AC8593,Air Canada,YWG,Winnipeg,Depart,A4,2018-03-12,8.03
+AC8819,Air Canada,YHM,Hamilton,Depart,A4,2018-03-12,7.49
+AC581,Air Canada,ORD,Chicago,Depart,C76,2018-03-12,8.21
+UA8371,United Airlines,ORD,Chicago,Depart,C76,2018-03-12,8.21
+AC8704,Air Canada,YQB,Quebec,Depart,A21,2018-03-12,8.01
+AC403,Air Canada,YYZ,Toronto,Depart,A49,2018-03-12,8.05

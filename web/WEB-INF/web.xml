@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <display-name>Aerotrack</display-name>
+    <welcome-file-list>
+        <welcome-file>acceuil.jsp</welcome-file>
+    </welcome-file-list>
+    <servlet>
+        <servlet-name>Controller</servlet-name>
+        <servlet-class>com.controller.Controller</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AfficherVols</servlet-name>
+        <servlet-class>com.controller.AfficherVols</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>RechercheVolsAjax</servlet-name>
+        <servlet-class>com.controller.RechercheVolsAjax</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Controller</servlet-name>
+        <url-pattern>/Controller</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AfficherVols</servlet-name>
+        <url-pattern>/afficherVols</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>RechercheVolsAjax</servlet-name>
+        <url-pattern>/rechercheVolsAjax</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

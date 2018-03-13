@@ -1,0 +1,111 @@
+
+body{
+background-image:url("../images/design_background.jpg");
+background-attachment:fixed;
+background-position: center center;
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+.panel{
+  border:0px;
+  background:rgba(0, 0, 0, 0.5);
+  color:#black;
+  text-align:center;
+  padding-top:50px;
+  position:relative;
+  font-family:'Montserrat';
+  font-size: 12px;
+  font-style:bold;
+}
+.panel:hover{
+background:rgba(0,0,0,0.7);
+
+}
+h3{
+  margin:0;
+  padding:0;
+  color:#fdb813;
+  font-family:'Montserrat';
+}
+
+p{
+  margin:0;
+  padding:0;
+  color:#fdb813;
+  font-family:'Montserrat';
+
+}
+#alertes{
+background-image:url("../images/design_background.jpg");
+background-attachment:fixed;
+background-position: center center;
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+
+#alertes {
+text-align: center;
+}
+#alertes h3 {
+color: white;
+}
+
+#alertes h4 {
+color: #fdb813;
+font-family:'Montserrat';
+}
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+    visibility: hidden;
+    width: 300px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 20px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+   font-family:'Montserrat';
+     color:#fdb813;
+}
+
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}

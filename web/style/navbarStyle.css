@@ -1,0 +1,44 @@
+.navbar {
+  padding-top:15px;
+  overflow: hidden;
+  background-color: #333;
+  background-size: cover !important;
+
+  
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Montserrat';
+  font-size: 12px;
+  font-style : bold;
+  margin-right: 15px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #fdb813;
+  color: white;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.navbar p{
+	color: white;
+	padding-left: 20px;
+	font-family: 'Montserrat';
+	font-size: 16px;
+	font-style : bold;
+}
